@@ -106,10 +106,14 @@ Kiran Analyst
 
 
 
-##  Dashboard Preview
+##  Dashboard Preview## 📊 Dashboard Preview
 
 ### Sales Analysis Dashboard
-![Sales Analysis Dashboard](Sales%20Analysis%20Dashboard.png)
+
+![Sales Analysis Dashboard](https://github.com/Kiran-Star-9/Retail-Sales-Profitability-Analysis/blob/main/Sales%20Analysis%20Dasboard.png)
 
 ### Profit Analysis Dashboard
-![Profit Analysis Dashboard](Profit%20Analysis%20Dasboard%20.png)
+
+![Profit Analysis Dashboard](https://github.com/Kiran-Star-9/Retail-Sales-Profitability-Analysis/blob/main/Profit%20Analysis%20Dasboard%20.png)
+
+
