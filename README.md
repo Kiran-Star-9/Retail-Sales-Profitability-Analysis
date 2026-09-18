@@ -112,4 +112,4 @@ Kiran Analyst
 ![Sales Analysis Dashboard](Sales%20Analysis%20Dashboard.png)
 
 ### Profit Analysis Dashboard
-![Profit Analysis Dashboard](Profit%20Analysis%20Dashboard%20.png)
+![Profit Analysis Dashboard](Profit%20Analysis%20Dasboard%20.png)
