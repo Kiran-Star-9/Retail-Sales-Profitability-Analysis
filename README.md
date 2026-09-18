@@ -103,3 +103,13 @@ Both dashboards include:
 ## 👤 Authur 
 
 Kiran Analyst
+
+
+
+##  Dashboard Preview
+
+### Sales Analysis Dashboard
+![Sales Analysis Dashboard](Sales%20Analysis%20Dashboard.png)
+
+### Profit Analysis Dashboard
+![Profit Analysis Dashboard](Profit%20Analysis%20Dashboard%20.png)
