@@ -100,7 +100,6 @@ Both dashboards include:
 3. Use the navigation button on each dashboard to switch between Sales Overview and Profit Analysis
 4. Use the slicers (Category, Region, Segment, Ship Mode) to filter the data interactively
 
-## 👤 Author
+## 👤 Authur 
 
-Prepared as part of a data analytics portfolio project — demonstrating data cleaning, pivot table analysis, and interactive dashboard design in Excel.# Retail-Sales-Profitability-Analysis
-Interactive Excel dashboard for retail sales, profit, and profitability analysis.
+Kiran Analyst
